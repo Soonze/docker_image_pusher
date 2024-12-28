@@ -7,4 +7,4 @@ ghcr.io/immich-app/immich-machine-learning:latest
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist#
